@@ -11,7 +11,6 @@ import GithubIcon from '../components/Icon/GithubIcon';
 import heroImage from '../images/header-background.webp';
 import porfolioImage1 from '../images/portfolio/portfolio-1.jpg';
 import porfolioImage2 from '../images/portfolio/portfolio-2.jpg';
-
 import {
   About,
   ContactSection,

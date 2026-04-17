@@ -1,7 +1,7 @@
-import { ChevronUpIcon } from '@heroicons/react/24/solid';
-import { FC, memo } from 'react';
+import {ChevronUpIcon} from '@heroicons/react/24/solid';
+import {FC, memo} from 'react';
 
-import { SectionId } from '../../data/data';
+import {SectionId} from '../../data/data';
 
 const Footer: FC = memo(() => (
   <div className="relative bg-neutral-900 px-4 pb-6 pt-12 sm:px-8 sm:pb-8 sm:pt-14">

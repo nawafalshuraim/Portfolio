@@ -89,11 +89,11 @@ export const heroData: Hero = {
 export const aboutData: About = {
   description: `Software Engineering student at KFUPM with a concentration in Decision Analytics. I build cross-platform mobile apps with Flutter and develop intelligent systems using deep learning, computer vision, and LLMs. I enjoy working on problems that sit at the intersection of human health, decision science, and real-time AI.`,
   aboutItems: [
-    { label: 'Location', text: 'Riyadh, Saudi Arabia', Icon: MapIcon },
-    { label: 'Nationality', text: 'Saudi', Icon: FlagIcon },
-    { label: 'Interests', text: 'IDSS, Weight Lifting & Calibrating Espresso', Icon: SparklesIcon },
-    { label: 'Study', text: 'KFUPM', Icon: AcademicCapIcon },
-    { label: 'Employment', text: 'Open to opportunities', Icon: BuildingOffice2Icon },
+    {label: 'Location', text: 'Riyadh, Saudi Arabia', Icon: MapIcon},
+    {label: 'Nationality', text: 'Saudi', Icon: FlagIcon},
+    {label: 'Interests', text: 'IDSS, Weight Lifting & Calibrating Espresso', Icon: SparklesIcon},
+    {label: 'Study', text: 'KFUPM', Icon: AcademicCapIcon},
+    {label: 'Employment', text: 'Open to opportunities', Icon: BuildingOffice2Icon},
   ],
 };
 
@@ -284,5 +284,5 @@ export const contact: ContactSection = {
  * Social items
  */
 export const socialLinks: Social[] = [
-  { label: 'Github', Icon: GithubIcon, href: 'https://github.com/nawafalshuraim' },
+  {label: 'Github', Icon: GithubIcon, href: 'https://github.com/nawafalshuraim'},
 ];
